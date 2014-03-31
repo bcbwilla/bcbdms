@@ -1,0 +1,7 @@
+main: net.electronexchange.plugins.bcbdms.BcbDMS
+name: bcbDMS
+version: 1.0.0
+author: bcbwilla
+website: electronexchange.net
+description: Additional death messages for hostile mob kills
+commands:
